@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<config mode="client">
+    <servers>
+        <server ip="demo.nacos.cn" port="2280" http-port="18080"/>
+    </servers>
+</config>

@@ -1,0 +1,9 @@
+management:
+  endpoints:
+    web:
+      base-path: /actuator
+      exposure:
+        include: "*"
+nacos:
+  config:
+    server-addr: 10.1.50.179:8848
